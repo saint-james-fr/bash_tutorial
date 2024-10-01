@@ -164,9 +164,10 @@ Tip: Use the `read` command. Compare variables using -lt or -ge.
 
 ## 📚 Further Resources
 
-- Bash manual: `man bash`
-- [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
-- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+- [Learn Bash in X minutes](https://learnxinyminutes.com/docs/bash/)
+- [Cheatsheet](https://devhints.io/bash)
+- [My own notes that I exported for you](./ressources/bash_basics.md)
+
 
 ## 🎯 Exercises Solutions
 
